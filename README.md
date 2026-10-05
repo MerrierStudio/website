@@ -9,4 +9,5 @@ Static website deployed with GitHub Pages.
 When updating the page, keep both files in sync and include any referenced assets.
 
 GitHub Pages publishes automatically from the root of the `main` branch.
+The product section includes an App Store download link and QR code.
 Footer links are currently placeholders.
